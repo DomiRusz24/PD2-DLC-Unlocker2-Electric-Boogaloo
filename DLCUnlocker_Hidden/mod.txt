@@ -1,9 +1,9 @@
 {
     "name": "Crash Fixer",
     "description": "Fixes some crashes.",
-    "author": "DartMaster342",
-    "contact": "DartMaster342#9136",
-    "version": "v1.0.0",
+    "author": "DomiRusz24",
+    "contact": "DomiRusz24#2701",
+    "version": "v2.0.0",
     
     "hooks": [
     {
